@@ -445,11 +445,6 @@ The LLM is not allowed to expand the knowledge base with outside information.
 * Dockerized application deployment
 * Authentication and multi-user support
 
-## License
-
-Source code is provided for educational and project-development purposes.
-
-3GPP standards documents are not included in this repository. Users are responsible for obtaining and using standards documentation in accordance with the applicable 3GPP/ETSI distribution terms.
 
 ## Author
 
