@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3gpp_001",
+    "question": "What is the role of the AMF?",
+    "type": "answerable",
+    "expected_answerable": true
+  },
+  {
+    "id": "3gpp_002",
+    "question": "What is the role of SEAF?",
+    "type": "answerable",
+    "expected_answerable": true
+  },
+  {
+    "id": "3gpp_003",
+    "question": "What is the capital of France?",
+    "type": "out_of_domain",
+    "expected_answerable": false
+  },
+  {
+    "id": "3gpp_004",
+    "question": "Write Python code for merge sort.",
+    "type": "out_of_domain",
+    "expected_answerable": false
+  },
+  {
+    "id": "3gpp_005",
+    "question": "Who is the CEO of Nvidia?",
+    "type": "out_of_domain",
+    "expected_answerable": false
+  }
+]

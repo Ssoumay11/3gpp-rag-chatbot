@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q001",
+    "question": "What is the role of the AMF in the 5G system?",
+    "type": "answerable",
+    "expected_answerable": true,
+    "specification": "TS 23.501",
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": "Populate gold section/chunk after inspecting retrieval."
+  },
+  {
+    "id": "Q002",
+    "question": "What is the role of the SMF in the 5G system?",
+    "type": "answerable",
+    "expected_answerable": true,
+    "specification": "TS 23.501",
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q003",
+    "question": "What is the role of the UPF?",
+    "type": "answerable",
+    "expected_answerable": true,
+    "specification": "TS 23.501",
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q004",
+    "question": "What security architecture is defined for the 5G system?",
+    "type": "answerable",
+    "expected_answerable": true,
+    "specification": "TS 33.501",
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q005",
+    "question": "What is the purpose of the 5G NAS protocol?",
+    "type": "unsupported",
+    "expected_answerable": false,
+    "specification": null,
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": "TS 24.501 is not part of the current four-document corpus."
+  },
+  {
+    "id": "Q006",
+    "question": "Who is the current CEO of Nvidia?",
+    "type": "out_of_domain",
+    "expected_answerable": false,
+    "specification": null,
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q007",
+    "question": "What is the capital of France?",
+    "type": "out_of_domain",
+    "expected_answerable": false,
+    "specification": null,
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q008",
+    "question": "Write Python code for binary search.",
+    "type": "out_of_domain",
+    "expected_answerable": false,
+    "specification": null,
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q009",
+    "question": "According to TS 33.501, what is the role of SEAF?",
+    "type": "answerable",
+    "expected_answerable": true,
+    "specification": "TS 33.501",
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q010",
+    "question": "According to TS 23.502, describe the relevant 5G system procedure.",
+    "type": "answerable",
+    "expected_answerable": true,
+    "specification": "TS 23.502",
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": "Refine with a specific procedure before final benchmarking."
+  },
+  {
+    "id": "Q011",
+    "question": "What is today's weather in Lucknow?",
+    "type": "out_of_domain",
+    "expected_answerable": false,
+    "specification": null,
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": ""
+  },
+  {
+    "id": "Q012",
+    "question": "Explain the latest 5G industry trends beyond the supplied 3GPP documents.",
+    "type": "adversarial",
+    "expected_answerable": false,
+    "specification": null,
+    "expected_sections": [],
+    "gold_chunk_ids": [],
+    "notes": "Tests external-knowledge refusal."
+  }
+]

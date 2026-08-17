@@ -1,0 +1,26 @@
+# Add project dependencies here
+llama-index
+llama-index-vector-stores-qdrant
+llama-index-embeddings-huggingface
+llama-index-llms-groq
+
+qdrant-client==1.17.0
+
+sentence-transformers
+transformers
+torch
+
+streamlit
+
+python-dotenv
+pydantic
+requests
+
+llama-cloud-services
+unstructured
+markdownify
+beautifulsoup4
+
+rank-bm25
+
+groq
